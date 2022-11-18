@@ -26,35 +26,7 @@
                 <li>Taking care of the garden - <i>the sound of the lawn mower calms me down</i></li>
             </ul>
         </div>
-        <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
-            <h2>Favorite movies</h2>
-            <table style="width: 100%; border: 3px solid grey;" >
-                <thead>
-                    <tr>
-                        <th>Title</th>
-                        <th>Rating</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td>The Green Mile</td>
-                        <td>10</td>
-                    </tr>
-                    <tr>
-                        <td>Back to the future</td>
-                        <td>9</td>
-                    </tr>
-                    <tr>
-                        <td>Avengers: Endgame</td>
-                        <td>9</td>
-                    </tr>
-                     <tr>
-                        <td>Thor: Ragnarok</td>
-                        <td>10</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>    
+        <div>  
         <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
             <h2>Contact</h2>
             <ul style="color: red;">
