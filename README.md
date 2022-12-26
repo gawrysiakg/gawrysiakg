@@ -12,12 +12,13 @@
          <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
             <h2>My skills</h2>
             <ul style="color: black;">
-                <li>Java</li>
+                <li>Java </li>
                 <li>Spring</li>
+                <li>REST Api</li>
                 <li>Hibernate</li>
                 <li>MySQL</li>
                 <li>Git</li>
-                 <li>JavaFX(hobbyist</li>
+                 <li>JavaFX(hobbyist)</li>
                  <li>JIRA</li>
             </ul>
         </div>
