@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Grzegorz</h1>
 <h3 align="center">Junior Java Developer from Poland</h3>
 
-- 🔭 I’m currently working on **Group project of an online store on Kodilla bootcamp**
+- 🔭 I’m currently working on **Dog Shelter Friend - Kodilla self-made final project**
 
-- 🌱 I’m currently learning **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito**
+- 🌱 I’m currently learning **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gawrysiakg?tab=repositories](https://github.com/gawrysiakg?tab=repositories)
 
@@ -18,7 +18,7 @@
 
  <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
             <h2>About me</h2>
-                <p>I am a student of Kodilla, I signed up for this course because I like IT and everything related to computers. In my current job, I have no opportunity to get promoted and prove myself. I am ambitious and always try to achieve my goals. I don't have much programming experience yet, but I like Java a lot. I really liked the spring framework and its possibilities. I associate my future with the IT industry.</p>
+                <p>I am self-taught, I am constantly developing my skills and I have great pleasure from it. I have completed Kodilla bootcamp, I signed up for this course because I like IT and everything related to computers. In my current job, I have no opportunity to get promoted and prove myself. I am ambitious and always try to achieve my goals. I don't have much programming experience yet, but I like Java a lot. I really liked the spring framework and its possibilities. I associate my future with the IT industry.</p>
         </div>
 
 <h3 align="left">Languages and Tools:</h3>
