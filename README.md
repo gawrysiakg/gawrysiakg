@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grzegorz</h1>
 <h3 align="center">Junior Java Developer from Poland</h3>
 
-- 🔭 I’m currently working on **javastart.pl Java course to learn more about Java**
+- 🔭 I’m currently working on a project expanding my knowledge of SpringBoot. **I practice Open Feign, validation, and professional error handling**
 
 - 🌱 I’m currently learning **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
 
