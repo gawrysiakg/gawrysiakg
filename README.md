@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Grzegorz</h1>
 <h3 align="center">Junior Java Developer from Poland</h3>
 
-- 🔭 I’m currently working on a project expanding my knowledge of SpringBoot. **I practice Open Feign, validation, and professional error handling**
+- ⚡ **Please visit by portfolio - http://www.gawrysiak.eu**
+- 🔭  I’m currently working on a project expanding my knowledge of SpringBoot. **I practice Open Feign, validation, and professional error handling**
 
-- 🌱 I’m currently learning **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
+- 🌱  I’m currently learning **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gawrysiakg?tab=repositories](https://github.com/gawrysiakg?tab=repositories)
+- 👨‍💻  All of my projects are available at [https://github.com/gawrysiakg?tab=repositories](https://github.com/gawrysiakg?tab=repositories)
 - -  see [**Dog Shelter Friend - Kodilla self-made final project**](https://github.com/gawrysiakg/MyJobOffers)
 - -  see [**MyJobOffers - project with private mentoring, using the latest commercial technologies(Testcontainers, Wiremock, Awaitility)**](https://github.com/gawrysiakg/MyJobOffers)
 
-- 📫 How to reach me **gawrysiak.gg@gmail.com**
+-  📫 How to reach me **gawrysiak.gg@gmail.com**
 
 - ⚡ Fun fact **My hobby: taking care of the garden - the sound of the lawn mower calms me down** 🏡
 
