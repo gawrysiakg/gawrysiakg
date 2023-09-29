@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Grzegorz</h1>
 <h3 align="center">Junior Java Developer from Poland</h3>
 
-- ⚡ **Visit my blog - portfolio:  https://www.gawrysiak.eu**
+- ⚡ **Visit my blog - portfolio:  https://www.gawrysiak.eu**  or scan QR Code:
+<p align="center">
+<a href="https://www.gawrysiak.eu" target="blank"><img align="center" src="https://github.com/gawrysiakg/repository-finder/blob/master/src/main/resources/images/fotokodsmall.png" alt="grzegorz-gawrysiak" height="200" width="200" /></a>
+</p>
+  
 - 🔭  I’m currently working on a project expanding my knowledge of SpringBoot. **I practice Open Feign, validation, and professional error handling**
 
 - 🌱  I’m currently learning **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
