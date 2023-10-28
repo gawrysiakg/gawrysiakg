@@ -6,9 +6,11 @@
 <a href="https://www.gawrysiak.eu" target="blank"><img align="center" src="https://github.com/gawrysiakg/repository-finder/blob/master/src/main/resources/images/fotokodsmall.png" alt="grzegorz-gawrysiak" height="200" width="200" /></a>
 </p>
   
-- 🔭  I’m currently working on a project expanding my knowledge of SpringBoot. **I practice Open Feign, validation, and professional error handling**
+- 🔭  I’m currently working on a project expanding my knowledge of **JavaScript and Node.js**
+- 🔭  In my free time I improve my Java and SpringBoot projects **I practice Open Feign, validation, and professional error handling**
 
-- 🌱  I’m currently learning **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
+- 🌱  Over the last year I have learned about technologies such as **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
+- 🌱  I recently started studying JavaScript Developer postgraduate studies to learn more about  **JavaScript, Node.js, React, Angular and basic DevOps tools**
 
 - 👨‍💻  All of my projects are available at [https://github.com/gawrysiakg?tab=repositories](https://github.com/gawrysiakg?tab=repositories)
 - -  see [**Dog Shelter Friend - Kodilla self-made final project**](https://github.com/gawrysiakg/MyJobOffers)
