@@ -13,7 +13,7 @@
 - 🌱  I recently started studying JavaScript Developer postgraduate studies to learn more about  **JavaScript, Node.js, React, Angular and basic DevOps tools**
 
 - 👨‍💻  All of my projects are available at [https://github.com/gawrysiakg?tab=repositories](https://github.com/gawrysiakg?tab=repositories)
-- -  see [**Dog Shelter Friend - Kodilla self-made final project**](https://github.com/gawrysiakg/MyJobOffers)
+- -  see [**Dog Shelter Friend - Kodilla self-made final project**](https://github.com/gawrysiakg/MyJobOffers) **Live Demo: www.dogs.gawrysiak.eu**
 - -  see [**MyJobOffers - project with private mentoring, using the latest commercial technologies(Testcontainers, Wiremock, Awaitility)**](https://github.com/gawrysiakg/MyJobOffers)
 
 -  📫 How to reach me **gawrysiak.gg@gmail.com**
