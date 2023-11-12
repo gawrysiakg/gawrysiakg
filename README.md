@@ -28,7 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/grzegorz-gawrysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grzegorz-gawrysiak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gawrysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grzegorz-gawrysiak" height="35" width="45" /></a>
+  <a href="https://www.gawrysiak.eu" target="blank"><img align="center" src="https://gawrysiak.eu/wp-content/uploads/2023/10/site.png" alt="grzegorz-gawrysiak" height="40" width="40" /></a>
 </p>
 
  <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
