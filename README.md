@@ -4,11 +4,11 @@
 - ⚡ **Visit my blog - portfolio:  https://www.gawrysiak.eu**  or scan QR Code:
 <p align="center">
   <a href="https://www.gawrysiak.eu" target="blank">
-    <img src="https://gawrysiak.eu/wp-content/uploads/2023/11/kissocial.png" alt="grzegorz-gawrysiak" height="200" width="300" style="padding-right: 50px; display: inline-block;" />
+    <img src="https://gawrysiak.eu/wp-content/uploads/2023/11/kissocial.png" alt="grzegorz-gawrysiak" height="150" width="225" style="padding-right: 50px; display: inline-block;" />
   </a>
 
   <a href="https://www.gawrysiak.eu" target="blank">
-    <img src="https://github.com/gawrysiakg/repository-finder/blob/master/src/main/resources/images/fotokodsmall.png" alt="grzegorz-gawrysiak" height="210" width="210" style="padding-left: 50px; display: inline-block;" />
+    <img src="https://github.com/gawrysiakg/repository-finder/blob/master/src/main/resources/images/fotokodsmall.png" alt="grzegorz-gawrysiak" height="157" width="157" style="padding-left: 50px; display: inline-block;" />
   </a>
 </p>
   
