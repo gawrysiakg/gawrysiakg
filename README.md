@@ -13,7 +13,7 @@
 </p>
   
 - 🔭  I’m currently working on a project expanding my knowledge of **JavaScript and Node.js**
-- 🔭  In my free time I improve my Java and SpringBoot projects **I practice Open Feign, validation, and professional error handling**
+- 🔭  In my free time I improve my Java and Spring Boot projects **I practice Open Feign, validation, and professional error handling**
 
 - 🌱  Over the last year I have learned about technologies such as **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
 - 🌱  I recently started studying JavaScript Developer postgraduate studies to learn more about  **JavaScript, Node.js, React, Angular and basic DevOps tools**
