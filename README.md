@@ -24,10 +24,10 @@
 
 -  📫 How to reach me **gawrysiak.gg@gmail.com**
 
-- ⚡ Fun fact **My hobby: taking care of the garden - the sound of the lawn mower calms me down** 🏡
+- ⚡ Fun fact **My hobby: taking care of the garden - the sound of the lawn mower calms me down:)** 🏡
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> 
 <a href="https://linkedin.com/in/gawrysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grzegorz-gawrysiak" height="35" width="45" /></a>
   <a href="https://www.gawrysiak.eu" target="blank"><img align="center" src="https://gawrysiak.eu/wp-content/uploads/2023/10/site.png" alt="grzegorz-gawrysiak" height="40" width="40" /></a>
 </p>
