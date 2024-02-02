@@ -28,8 +28,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="https://linkedin.com/in/gawrysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grzegorz-gawrysiak" height="35" width="45" /></a>
-  <a href="https://www.gawrysiak.eu" target="blank"><img align="center" src="https://gawrysiak.eu/wp-content/uploads/2023/10/site.png" alt="grzegorz-gawrysiak" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/gawrysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grzegorz-gawrysiak" height="35" width="45"  margin: 20px; /></a>
+  <a href="https://www.gawrysiak.eu" target="blank"><img align="center" src="https://gawrysiak.eu/wp-content/uploads/2023/10/site.png" alt="grzegorz-gawrysiak" height="40" width="40" margin: 20px;/></a>
+   <a href="https://www.instagram.com/gawrysiak.eu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="gawrysiak - instagram" height="40" width="40" margin: 20px;/></a>
 </p>
 
  <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
@@ -48,6 +49,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="45" width="45" alt="intellij logo"  title="IntelliJ IDEA"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" width="45" alt="github logo"  title="GitHub"  />
  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="45" width="45" alt="junit5"  title="JUnit5"  />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" height="45" width="45" alt="javascript"  title="JavaScript"  />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" height="45" width="45" alt="angular"  title="Angular"  />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" height="45" width="45" alt="react"  title="React"  />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="45" width="45" alt="typescript"  title="TypeScript"  />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gawrysiakg&show_icons=true&locale=en&layout=compact" alt="gawrysiakg" /></p>
