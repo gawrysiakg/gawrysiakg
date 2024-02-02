@@ -12,7 +12,7 @@
   </a>
 </p>
   
-- 🔭  I’m currently working on a project expanding my knowledge of **JavaScript and Node.js**
+- 🔭  I’m currently working on a project expanding my knowledge of **JavaScript, Angular, React and Node.js**
 - 🔭  In my free time I improve my Java and Spring Boot projects **I practice Open Feign, validation, and professional error handling**
 
 - 🌱  Over the last year I have learned about technologies such as **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
@@ -21,6 +21,7 @@
 - 👨‍💻  All of my projects are available at [https://github.com/gawrysiakg?tab=repositories](https://github.com/gawrysiakg?tab=repositories)
 - -  see [**Dog Shelter Friend - Kodilla self-made final project**](https://github.com/gawrysiakg/dog-shelter-friend) **Live Demo: www.dogs.gawrysiak.eu**
 - -  see [**MyJobOffers - project with private mentoring, using the latest commercial technologies(Testcontainers, Wiremock, Awaitility)**](https://github.com/gawrysiakg/MyJobOffers)
+- -  see [**GG Race Game - my first Angular game, using TypeScript and Angular 17**](https://github.com/gawrysiakg/gg-race) . **Live Demo: https://gawrysiak-race.netlify.app/**
 
 -  📫 How to reach me **gawrysiak.gg@gmail.com**
 
