@@ -16,7 +16,7 @@
 - 🔭  In my free time I improve my Java and Spring Boot projects **I practice Open Feign, validation, and professional error handling**
 
 - 🌱  Over the last year I have learned about technologies such as **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
-- 🌱  I recently started studying JavaScript Developer postgraduate studies to learn more about  **JavaScript, Node.js, React, Angular and basic DevOps tools**
+- 🌱  I'm studying JavaScript Developer at postgraduate studies to expand my knowledge about  **JavaScript, Node.js, React, Angular and basic DevOps tools**
 
 - 👨‍💻  All of my projects are available at [https://github.com/gawrysiakg?tab=repositories](https://github.com/gawrysiakg?tab=repositories)
 - -  see [**Dog Shelter Friend - Kodilla self-made final project**](https://github.com/gawrysiakg/dog-shelter-friend) **Live Demo: www.dogs.gawrysiak.eu**
