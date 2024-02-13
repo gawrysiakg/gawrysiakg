@@ -22,6 +22,8 @@
 - -  see [**Dog Shelter Friend - Kodilla self-made final project**](https://github.com/gawrysiakg/dog-shelter-friend) **Live Demo: www.dogs.gawrysiak.eu**
 - -  see [**MyJobOffers - project with private mentoring, using the latest commercial technologies(Testcontainers, Wiremock, Awaitility)**](https://github.com/gawrysiakg/MyJobOffers)
 - -  see [**GG Race Game - my first Angular game, using TypeScript and Angular 17**](https://github.com/gawrysiakg/gg-race) . **Live Demo: https://gawrysiak-race.netlify.app/**
+- -  see [**React Shopping App - my first simple React app**](https://github.com/gawrysiakg/react-shopping-app) . **Simple... but it's a beginning of my journey**
+
 
 -  📫 How to reach me **gawrysiak.gg@gmail.com**
 
