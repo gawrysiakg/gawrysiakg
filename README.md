@@ -56,6 +56,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" height="45" width="45" alt="angular"  title="Angular"  />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" height="45" width="45" alt="react"  title="React"  />
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" height="45" width="45" alt="typescript"  title="TypeScript"  />
+   <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" height="45" width="45" alt="typescript"  title="PSM_I"  />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gawrysiakg&show_icons=true&locale=en&layout=compact" alt="gawrysiakg" /></p>
