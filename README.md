@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grzegorz</h1>
-<h3 align="center">Junior Java Developer from Poland</h3>
+<h3 align="center">Junior Java / Full Stack Developer from Poland</h3>
 
 - ⚡ **Visit my blog - portfolio:  https://www.gawrysiak.eu**  or scan QR Code:
 <p align="center">
