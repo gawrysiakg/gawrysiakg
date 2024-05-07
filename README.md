@@ -26,7 +26,7 @@
 - -  see [**React Shopping App - my first simple React app**](https://github.com/gawrysiakg/react-shopping-app) . **Simple... but it's a beginning of my journey**
 
 
--  📫 How to reach me **gawrysiak.gg@gmail.com**
+<!-- -  📫 How to reach me **gawrysiak.gg@gmail.com** -->
 
 - ⚡ Fun fact **My hobby: taking care of the garden - the sound of the lawn mower calms me down:)** 🏡
 
