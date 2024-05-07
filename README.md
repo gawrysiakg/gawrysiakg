@@ -37,15 +37,6 @@
 </a>
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-<a href="https://linkedin.com/in/gawrysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="grzegorz-gawrysiak" height="35" width="45"  margin: 20px; /></a>
-  <a href="https://www.gawrysiak.eu" target="blank"><img align="center" src="https://gawrysiak.eu/wp-content/uploads/2023/10/site.png" alt="grzegorz-gawrysiak" height="40" width="40" margin: 20px;/></a>
-   <a href="https://www.instagram.com/gawrysiak.eu/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" alt="gawrysiak - instagram" height="40" width="40" margin: 20px;/></a>
-</p>
-
-
  <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
             <h2>About me</h2>
                 <p>I have learned Java and Spring at a decent level, currently expanding my knowledge with JavaScript, Angular, and React in postgraduate studies. In my free time, I work as a Programming Tutor for children, teaching Scratch and Python - improving my soft skills in the process.
