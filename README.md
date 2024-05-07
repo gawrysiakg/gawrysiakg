@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grzegorz</h1>
 <h3 align="center">Java Developer / Full Stack Developer from Poland</h3>
 
-- ⚡ **Visit my blog - portfolio:  https://www.gawrysiak.eu**  or scan QR Code:
+
 <p align="center">
   <a href="https://www.gawrysiak.eu" target="blank">
     <img src="https://gawrysiak.eu/wp-content/uploads/2023/11/kissocial.png" alt="grzegorz-gawrysiak" height="150" width="225" style="padding-right: 50px; display: inline-block;" />
@@ -11,7 +11,8 @@
     <img src="https://github.com/gawrysiakg/repository-finder/blob/master/src/main/resources/images/fotokodsmall.png" alt="grzegorz-gawrysiak" height="157" width="157" style="padding-left: 50px; display: inline-block;" />
   </a>
 </p>
-  
+
+- ⚡  Visit my blog - portfolio:  https://www.gawrysiak.eu or scan QR Code
 - 🔭  I’m currently working on a project expanding my knowledge of **JavaScript, Angular, React and Node.js**
 - 🔭  In my free time I improve my Java and Spring Boot projects **I practice Open Feign, validation, and professional error handling**
 
@@ -47,7 +48,8 @@
 
  <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
             <h2>About me</h2>
-                <p>I am self-taught, I am constantly developing my skills and I have great pleasure from it. I have completed Kodilla bootcamp, I signed up for this course because I like IT and everything related to computers. In my current job, I have no opportunity to get promoted and prove myself. I am ambitious and always try to achieve my goals. I may not know everything yet, but I'm learning every day, as you can see on my Github. I am proud of myself and my progress over the last year. The company that invests in me - I will repay with commitment and loyalty.</p>
+                <p>I have learned Java and Spring at a decent level, currently expanding my knowledge with JavaScript, Angular, and React in postgraduate studies. In my free time, I work as a Programming Tutor for children, teaching Scratch and Python - improving my soft skills in the process.
+I have a PSM I certificate, knowledge of finance, banking, and the functioning of a large manufacturing company. I fit into many projects. I am looking for an honest permanent job, I do not jump from company to company, I do not need to be told things twice, I learn and draw conclusions. I will be a good investment.</p>
         </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -68,5 +70,5 @@
    <img src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" height="45" width="45" alt="typescript"  title="PSM_I"  />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gawrysiakg&show_icons=true&locale=en&layout=compact" alt="gawrysiakg" /></p>
+  <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gawrysiakg&show_icons=true&locale=en&layout=compact" alt="gawrysiakg" /></p> -->
 
