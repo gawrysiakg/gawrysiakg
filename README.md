@@ -13,13 +13,13 @@
 </p>
 
 - ⚡  Visit my blog - portfolio:  https://www.gawrysiak.eu or scan QR Code
-- 🔭  I’m currently expanding knowledge of **JavaScript, Angular, React and Node.js** at JavaScript Developer - postgraduate studies 
-- 🔭  In my free time I improve my Java and Spring Boot projects **I practice Open Feign, validation, and professional error handling**
+- 🔭  I currently work as a **Java Developer** for one of the largest mobile phone operators in Poland.
+- 🔭  I completed JavaScript Developer postgraduate studies **JavaScript, Angular, React and Node.js**
+- 🔭  Hobbies: I work as a **Programming Tutor** at Coding Powers. 
+- 🔭  In my free time I improve my Java and Spring Boot projects **I practice hexagonal architecture, microservices, Open Feign, validation, and professional error handling**
 
-- 🌱  Over the last year I have learned about technologies such as **Git, Spring Boot, Hibernate, JDBC, IntelliJ, SpringWEB, REST API, Gradle, JUnit5, Swagger, MySQL, Selenium, WebDriver, Jira, Thymeleaf, Java 17, Mockito, Vaadin, Docker, Redis**
-<!-- - 🌱  I'm studying JavaScript Developer at postgraduate studies to expand my knowledge about  **JavaScript, Node.js, React, Angular and basic DevOps tools** -->
 
-- 👨‍💻  All of my projects are available at [https://github.com/gawrysiakg?tab=repositories](https://github.com/gawrysiakg?tab=repositories)
+- 👨‍💻  Some of my projects are available at [https://github.com/gawrysiakg?tab=repositories](https://github.com/gawrysiakg?tab=repositories)
 - -  see [**Dog Shelter Friend - Kodilla self-made final project**](https://github.com/gawrysiakg/dog-shelter-friend) **Live Demo: www.dogs.gawrysiak.eu**
 - -  see [**MyJobOffers - project with private mentoring, using the latest commercial technologies(Testcontainers, Wiremock, Awaitility)**](https://github.com/gawrysiakg/MyJobOffers)
 - -  see [**GG Race Game - my first Angular game, using TypeScript and Angular 17**](https://github.com/gawrysiakg/gg-race) . **Live Demo: https://gawrysiak-race.netlify.app/**
@@ -39,8 +39,9 @@
 
  <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
             <h2>About me</h2>
-                <p>I have learned Java and Spring at a decent level, currently expanding my knowledge with JavaScript, Angular, and React in postgraduate studies. In my free time, I work as a Programming Tutor for children, teaching Scratch and Python - improving my soft skills in the process.
-I have a PSM I certificate, knowledge of finance, banking, and the functioning of a large manufacturing company. I fit into many projects. I am looking for an honest permanent job, I do not jump from company to company, I do not need to be told things twice, I learn and draw conclusions. I will be a good investment.</p>
+                <p>Finally, I feel like I'm in the right place, doing what I love. My journey as a developer has been full of learning and growth, and I’m passionate about solving problems and creating solutions. Whether working with Java, building full-stack apps, or mentoring others, I find joy in every part of it.
+
+I’ve developed solid skills in Java and extended my knowledge with JavaScript, Angular, and React in postgraduate studies. In my free time, I teach programming to children, improving both their skills and my own. Working with children gives me great satisfaction. With a PSM I certificate and experience in finance, banking, and manufacturing, I adapt easily to different projects. I’m seeking a stable, honest job where I can be a valuable long-term asset</p>
         </div>
 
 <h3 align="left">Languages and Tools:</h3>
