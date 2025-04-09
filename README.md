@@ -12,7 +12,9 @@
   </a>
 </p>
 
-- ⚡  Visit my blog - portfolio:  https://www.gawrysiak.eu or scan QR Code
+- ⚡  Visit my blog - portfolio:  <a href="https://www.gawrysiak.eu" style="font-size: 24px; text-decoration: none; color: black;">
+  🅶🅰🆆🆁🆈🆂🅸🅰🅺.🅴🆄
+</a>    or scan QR Code
 - 🔭  I currently work as a **Java Developer** for one of the largest mobile phone operators in Poland.
 - 🔭  I completed JavaScript Developer postgraduate studies **JavaScript, Angular, React and Node.js**
 - 🔭  Hobbies: I work as a **Programming Tutor** at Coding Powers. 
