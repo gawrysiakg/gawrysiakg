@@ -41,9 +41,17 @@
 
  <div style="background-color: white; padding: 10px; box-shadow: 3px 3px grey; margin-bottom: 10px; ">
             <h2>About me</h2>
-                <p>Finally, I feel like I'm in the right place, doing what I love. My journey as a developer has been full of learning and growth, and I’m passionate about solving problems and creating solutions. Whether working with Java, building full-stack apps, or mentoring others, I find joy in every part of it.
+                <pI have my own projects on GitHub and a strong determination to grow as a developer. I’ve learned Java and Spring at a solid level. I also completed postgraduate studies in JavaScript Development to deepen my knowledge of JavaScript, Angular, React, Node.js, and other modern technologies.
 
-I’ve developed solid skills in Java and extended my knowledge with JavaScript, Angular, and React in postgraduate studies. In my free time, I teach programming to children, improving both their skills and my own. Working with children gives me great satisfaction. With a PSM I certificate and experience in finance, banking, and manufacturing, I adapt easily to different projects. I’m seeking a stable, honest job where I can be a valuable long-term asset</p>
+I like to understand the broader context when solving problems – it helps me find more accurate and effective solutions. For over a year, I’ve been successfully working as a Java Developer at a major telecom company.
+
+In my spare time, I work as a programming tutor for children, teaching Scratch and Python. It’s a hobby that also helps me improve my soft skills. I truly enjoy sharing knowledge and watching my students grow.
+
+I hold a degree in Management and Marketing, a PSM I certificate, and have a background in finance, banking, and operations of large manufacturing companies. This allows me to contribute to projects that require both technical skills and business understanding. I enjoy bridging the gap between these two worlds.
+
+I’m looking for a fair, long-term opportunity where I can continue to learn, grow, and apply my skills effectively.
+
+✔ My portfolio/blog: https://www.gawrysiak.eu</p>
         </div>
 
 <h3 align="left">Languages and Tools:</h3>
